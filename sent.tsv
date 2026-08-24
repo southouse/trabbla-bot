@@ -1,0 +1,148 @@
+date	topic	english
+queue-001	입국심사	I'm here for vacation.
+queue-001	입국심사	I'm staying at a hotel in Manhattan.
+queue-001	입국심사	It's just clothes and personal items.
+queue-001	입국심사	I'm here for ~
+queue-001	입국심사	Do I need to ~ ?
+queue-002	공항·수하물	My bag didn't come out.
+queue-002	공항·수하물	Where can I find the shuttle to the rental car center?
+queue-002	공항·수하물	Is this the line for security?
+queue-002	공항·수하물	Where can I find ~ ?
+queue-002	공항·수하물	Is this the right ~ ?
+queue-003	호텔 체크인과 체크아웃	I have a reservation under Nam.
+queue-003	호텔 체크인과 체크아웃	What time is check-out?
+queue-003	호텔 체크인과 체크아웃	Can I leave my luggage here until my room is ready?
+queue-003	호텔 체크인과 체크아웃	I have a reservation under ~
+queue-003	호텔 체크인과 체크아웃	Could you ~ ?
+queue-004	레스토랑 주문	Two, please.
+queue-004	레스토랑 주문	I'll have the salmon.
+queue-004	레스토랑 주문	Could we get the check, please?
+queue-004	레스토랑 주문	I'll have ~
+queue-004	레스토랑 주문	Could we get ~ ?
+queue-005	카페와 패스트푸드	Can I get a medium iced latte?
+queue-005	카페와 패스트푸드	For here or to go?
+queue-005	카페와 패스트푸드	Is this seat taken?
+queue-005	카페와 패스트푸드	Can I get ~ ?
+queue-005	카페와 패스트푸드	~ , please
+queue-006	결제와 팁	Do you take Apple Pay?
+queue-006	결제와 팁	Can we split the bill?
+queue-006	결제와 팁	Is the tip included?
+queue-006	결제와 팁	Do you take ~ ?
+queue-006	결제와 팁	Is ~ included?
+queue-007	택시와 우버	Can you take me to this address?
+queue-007	택시와 우버	I'm at the pickup area by door 3.
+queue-007	택시와 우버	Can you drop me off at the corner?
+queue-007	택시와 우버	Can you take me to ~ ?
+queue-007	택시와 우버	I'm at ~
+queue-008	지하철·버스·기차	Does this train go to Times Square?
+queue-008	지하철·버스·기차	How many stops to Union Station?
+queue-008	지하철·버스·기차	Where do I transfer for the blue line?
+queue-008	지하철·버스·기차	Does this ~ go to ... ?
+queue-008	지하철·버스·기차	How many ~ to ... ?
+queue-009	렌터카와 주유소	I'd like to add insurance.
+queue-009	렌터카와 주유소	Is it self-serve?
+queue-009	렌터카와 주유소	Fill it up with regular, please.
+queue-009	렌터카와 주유소	I'd like to ~
+queue-009	렌터카와 주유소	Is it ~ ?
+queue-010	쇼핑과 사이즈 문의	Do you have this in a medium?
+queue-010	쇼핑과 사이즈 문의	Can I try this on?
+queue-010	쇼핑과 사이즈 문의	I'm just looking, thanks.
+queue-010	쇼핑과 사이즈 문의	Do you have this in ~ ?
+queue-010	쇼핑과 사이즈 문의	Can I ~ ?
+queue-011	반품과 교환	I'd like to return this.
+queue-011	반품과 교환	Can I exchange this for a bigger size?
+queue-011	반품과 교환	It doesn't fit.
+queue-011	반품과 교환	Can I exchange this for ~ ?
+queue-011	반품과 교환	It doesn't ~
+queue-012	길 묻기	How do I get to Central Park from here?
+queue-012	길 묻기	Is it within walking distance?
+queue-012	길 묻기	Sorry, I didn't catch that.
+queue-012	길 묻기	How do I get to ~ ?
+queue-012	길 묻기	Could you say that again ~ ?
+queue-013	약국과 병원	Do you have something for a headache?
+queue-013	약국과 병원	I have a sore throat and a fever.
+queue-013	약국과 병원	Is this covered by travel insurance?
+queue-013	약국과 병원	Do you have something for ~ ?
+queue-013	약국과 병원	I have ~
+queue-014	분실·도난 신고	I lost my passport.
+queue-014	분실·도난 신고	My wallet was stolen.
+queue-014	분실·도난 신고	Can I get a copy of the report?
+queue-014	분실·도난 신고	I lost my ~
+queue-014	분실·도난 신고	My ~ was stolen
+queue-015	가벼운 스몰토크	How's it going?
+queue-015	가벼운 스몰토크	I'm visiting from Korea.
+queue-015	가벼운 스몰토크	Any recommendations around here?
+queue-015	가벼운 스몰토크	I'm visiting from ~
+queue-015	가벼운 스몰토크	Any ~ around here?
+queue-016	호텔 불편 사항 요청	The air conditioning isn't working.
+queue-016	호텔 불편 사항 요청	Could I get some extra towels?
+queue-016	호텔 불편 사항 요청	Is it possible to change rooms?
+queue-016	호텔 불편 사항 요청	The ~ isn't working
+queue-016	호텔 불편 사항 요청	Is it possible to ~ ?
+queue-017	관광지 티켓과 예약	Two adults, please.
+queue-017	관광지 티켓과 예약	Do I need to book in advance?
+queue-017	관광지 티켓과 예약	What time do you close?
+queue-017	관광지 티켓과 예약	Do I need to ~ in advance?
+queue-017	관광지 티켓과 예약	What time do you ~ ?
+queue-018	통신과 와이파이	What's the Wi-Fi password?
+queue-018	통신과 와이파이	Is there a data plan for tourists?
+queue-018	통신과 와이파이	My phone isn't connecting.
+queue-018	통신과 와이파이	What's the ~ ?
+queue-018	통신과 와이파이	Is there ~ ?
+queue-019	국내선 환승	Do I need to pick up my bags for the connection?
+queue-019	국내선 환승	My connection is tight. Can I go ahead?
+queue-019	국내선 환승	Which terminal is my next flight?
+queue-019	국내선 환승	Do I need to ~ for ... ?
+queue-019	국내선 환승	Which ~ is ... ?
+queue-020	매너 표현과 거절하기	No, thank you. I'm all set.
+queue-020	매너 표현과 거절하기	Excuse me, sorry — coming through.
+queue-020	매너 표현과 거절하기	I appreciate it.
+queue-020	매너 표현과 거절하기	I'm all set
+queue-020	매너 표현과 거절하기	Would you mind if I ~ ?
+queue-021	입국심사 (2회차)	About ten days.
+queue-021	입국심사 (2회차)	My return flight is on the 15th.
+queue-021	입국심사 (2회차)	I'm traveling with my family.
+queue-021	입국심사 (2회차)	About ~
+queue-021	입국심사 (2회차)	I'm traveling with ~
+queue-022	공항·수하물 (2회차)	I'd like to check one bag.
+queue-022	공항·수하물 (2회차)	Is my flight on time?
+queue-022	공항·수하물 (2회차)	Can I get an aisle seat?
+queue-022	공항·수하물 (2회차)	I'd like to check ~
+queue-023	호텔 체크인과 체크아웃 (2회차)	Can I get a wake-up call at six?
+queue-023	호텔 체크인과 체크아웃 (2회차)	Is there a shuttle to the airport?
+queue-023	호텔 체크인과 체크아웃 (2회차)	I'm checking out.
+queue-023	호텔 체크인과 체크아웃 (2회차)	Can I get a ~ at ... ?
+queue-023	호텔 체크인과 체크아웃 (2회차)	I'm ~ing
+queue-024	레스토랑 주문 (2회차)	What do you recommend?
+queue-024	레스토랑 주문 (2회차)	Can I get that on the side?
+queue-024	레스토랑 주문 (2회차)	Could you box this up?
+queue-024	레스토랑 주문 (2회차)	What do you recommend ~ ?
+queue-024	레스토랑 주문 (2회차)	Could you ~ this ... ?
+queue-025	카페와 패스트푸드 (2회차)	Is that for here?
+queue-025	카페와 패스트푸드 (2회차)	Room for cream, please.
+queue-025	카페와 패스트푸드 (2회차)	Can you make it iced?
+queue-025	카페와 패스트푸드 (2회차)	Room for ~
+queue-025	카페와 패스트푸드 (2회차)	Can you make it ~ ?
+queue-026	결제와 팁 (2회차)	Can I get a receipt?
+queue-026	결제와 팁 (2회차)	I'll leave the tip in cash.
+queue-026	결제와 팁 (2회차)	There's a mistake on the bill.
+queue-026	결제와 팁 (2회차)	There's a ~ on the ...
+queue-027	택시와 우버 (2회차)	How long will it take?
+queue-027	택시와 우버 (2회차)	Could you turn on the meter?
+queue-027	택시와 우버 (2회차)	This is fine, thanks.
+queue-027	택시와 우버 (2회차)	How long will it take to ~ ?
+queue-027	택시와 우버 (2회차)	This is ~
+queue-028	지하철·버스·기차 (2회차)	Where can I buy a metro card?
+queue-028	지하철·버스·기차 (2회차)	Does this stop at the airport?
+queue-028	지하철·버스·기차 (2회차)	I think I'm going the wrong way.
+queue-028	지하철·버스·기차 (2회차)	Where can I buy ~ ?
+queue-028	지하철·버스·기차 (2회차)	I think I'm ~
+queue-029	렌터카와 주유소 (2회차)	Where do I return the car?
+queue-029	렌터카와 주유소 (2회차)	Do I need to fill it up before returning?
+queue-029	렌터카와 주유소 (2회차)	There's a scratch on the door already.
+queue-029	렌터카와 주유소 (2회차)	Where do I ~ ?
+queue-030	쇼핑과 사이즈 문의 (2회차)	Is this on sale?
+queue-030	쇼핑과 사이즈 문의 (2회차)	Do you have a bigger one in the back?
+queue-030	쇼핑과 사이즈 문의 (2회차)	I'll think about it.
+queue-030	쇼핑과 사이즈 문의 (2회차)	Is this ~ ?
+queue-030	쇼핑과 사이즈 문의 (2회차)	I'll ~
